@@ -1,4 +1,4 @@
-![](https://belian.earth/_next/image?url=%2Fimages%2Flogo-color.png&w=384&q=75)
+# ![](https://avatars.githubusercontent.com/u/176045234?s=200&v=4) belian.earth
 
 **Forest Conservation Science** — Rethinking counterfactual analysis for credible forest conservation baselines
 
