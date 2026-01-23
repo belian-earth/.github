@@ -1,4 +1,4 @@
-# 🌍 belian.earth
+![](https://belian.earth/_next/image?url=%2Fimages%2Flogo-white.png&w=384&q=75)
 
 **Forest Carbon Science** — Rethinking counterfactual analysis for credible forest carbon baselines
 
