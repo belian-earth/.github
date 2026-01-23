@@ -1,12 +1,12 @@
-![](https://belian.earth/_next/image?url=%2Fimages%2Flogo-white.png&w=384&q=75)
+![](https://belian.earth/_next/image?url=%2Fimages%2Flogo-color.png&w=384&q=75)
 
-**Forest Carbon Science** — Rethinking counterfactual analysis for credible forest carbon baselines
+**Forest Conservation Science** — Rethinking counterfactual analysis for credible forest conservation baselines
 
 [Website](https://belian.earth) • [LinkedIn](https://www.linkedin.com/company/belian-earth)
 
 ---
 
-We're a small team working at the intersection of **geospatial data**, **causal inference**, and **forest carbon science**. Our goal is to build more transparent and credible approaches to understanding what would have happened to forests without conservation interventions.
+We're a small team working at the intersection of **geospatial data**, **causal inference**, and **Forest science**. Our goal is to build more transparent and credible approaches to understanding what would have happened to forests without conservation interventions.
 
 ### 🛠️ Our Toolbox
 
