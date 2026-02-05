@@ -18,7 +18,7 @@ We love working with open source tools:
 We're just getting started, but we believe in sharing what we build:
 
 - **[duckdb-r-editor](https://github.com/belian-earth/duckdb-r-editor)** — A Positron IDE extension for rich DuckDB SQL editing within R files
-- **[wheredd](https://github.com/belian-earth/wheredd)** - An R package to access forest carbon location data 
+- **[wheredd](https://github.com/belian-earth/wheredd)** - An R package to access forest carbon project location data 
 
 More to come ✨
 
