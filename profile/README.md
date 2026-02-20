@@ -11,7 +11,7 @@ We're a small team working at the intersection of **geospatial data**, **causal 
 
 We love working with open source tools:
 
-`R` • `DuckDB` • `GDAL`
+`R` • `DuckDB` • `GDAL`• `Rust`
 
 ### 📦 Open Source
 
