@@ -33,7 +33,7 @@ More to come ✨
 ### 📖 From the blog
 
 - [VM0047: your ARR project's defining moment](https://belian.earth/news/vm0047-defining-decision-reference-areas)
-- [The carbon baseline problem nobody wants to talk about](https://belian.earth/news/carbon-baseline-vs-biomass-maps)
+- [Liana cutting, designed experiments, and carbon baselines](https://belian.earth/news/liana-cutting-carbon-baselines)
 - [ML4EO 2026: Why Pixels Aren't Enough for Carbon Market Integrity](https://belian.earth/news/ml4eo-2026)
 
   
