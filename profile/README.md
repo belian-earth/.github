@@ -1,5 +1,5 @@
 # belian.earth
-**Forest Conservation Science.** Rethinking counterfactual analysis for credible forest conservation baselines
+**Forest Conservation Science.** Rethinking [counterfactual analysis](https://belian.earth/science) for credible forest conservation baselines
 
 [Website](https://belian.earth) • [LinkedIn](https://www.linkedin.com/company/belian-earth) • [🦋](https://bsky.app/profile/belian-earth.bsky.social)
 
@@ -23,6 +23,16 @@ We're just getting started, but we believe in sharing what we build:
 - **[a5R](https://github.com/belian-earth/a5R)**: R bindings for the a5 geospatial index
 - **[duckdb-r-editor](https://github.com/belian-earth/duckdb-r-editor)**: a Positron IDE extension for rich DuckDB SQL editing within R files
 - **[wheredd](https://github.com/belian-earth/wheredd)**: an R package to access forest carbon project location data
+
+### 🌳 How we build forest carbon baselines
+
+The method behind the company, page by page:
+
+- [Forest carbon baselines, built to be checked](https://belian.earth/science): the technology hub
+- [ramet5, the reference area matching engine](https://belian.earth/science/ramet5): how comparable places are found from the satellite record
+- [VM0047 data provider: baselines and reference areas for tree planting](https://belian.earth/science/vm0047)
+- [Avoided deforestation (REDD): where baselines matter most](https://belian.earth/science/redd)
+- [Biodiversity credits: baselines for nature and biodiversity markets](https://belian.earth/science/biodiversity)
 
 More to come ✨
 
